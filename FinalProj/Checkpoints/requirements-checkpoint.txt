@@ -1,0 +1,10 @@
+pyspark>=3.0.0
+numpy>=1.20.0
+pandas>=1.2.0
+geopandas>=0.10.0
+shapely>=1.7.0
+pytz>=2021.1
+pyarrow>=4.0.0
+geopandas>=1.0.1
+geopy>=2.4.1
+folium>=0.19.5
